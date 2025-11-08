@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ömer Cihan Kurtuluş - Wikipedia</title>
+    <meta name="description" content="Ömer Cihan Kurtuluş biyografisi. Eski amatör boksör ve kickboks sporcusu, Üsküdar ve Selimiye çevresinde tanınan genç isim, geçmişte mahaller arası ticaret ve sosyal faaliyetler yürütmüştür.">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+            background-color: #000; /* Siyah arka plan */
+            color: #fff; /* Genel metin beyaz */
+            background-image: radial-gradient(circle at center, #8B0000 5%, transparent 5%),
+                              radial-gradient(circle at center, #8B0000 5%, transparent 5%);
+            background-size: 50px 50px;
+            background-position: 0 0, 25px 25px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1.5rem 2rem;
+            background-color: #111;
+            border: 1px solid #333;
+            box-sizing: border-box;
+        }
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 0.8rem;
+        }
+        h2 {
+            font-size: 1.3rem;
+            margin-top: 1.5rem;
+            border-bottom: 1px solid #555;
+            padding-bottom: 0.3rem;
+        }
+        .infobox {
+            float: right;
+            width: 250px;
+            border: 1px solid #555;
+            padding: 8px;
+            margin-left: 15px;
+            background-color: #222;
+            box-sizing: border-box;
+        }
+        .infobox b {
+            display: inline-block;
+            width: 100px;
+            color: #fff; /* Önemli kişilerin isimleri beyaz */
+        }
+        p {
+            margin-bottom: 0.9rem;
+            text-align: justify;
+            font-size: 0.95rem;
+        }
+        .author, .update-date {
+            font-weight: bold;
+            margin-top: 1rem;
+            font-size: 0.95rem;
+        }
+        .copyright {
+            font-size: 0.95rem; /* Büyütüldü */
+            color: rgba(255,255,255,0.8);
+            margin-top: 0.8rem;
+            line-height: 1.3;
+        }
+        .highlight {
+            color: #d32f2f;
+            font-weight: bold;
+        }
+        .person-name {
+            color: #fff; /* Önemli kişiler beyaz */
+            font-weight: bold;
+        }
+        @media (max-width: 768px) {
+            .infobox {
+                float: none;
+                width: 100%;
+                margin: 0 0 1rem 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Sayfanın en üstü: Biyografi başlığı -->
+        <h1>Ömer Cihan Kurtuluş</h1>
+
+        <!-- Biyografi başlıyor -->
+        <h2>Genel Bakış</h2>
+        <p>Ömer Cihan Kurtuluş, genç yaşına rağmen spor ve sosyal çevrede tanınan bir isimdir. Spor kariyerine boks ve kickboks ile başlamış, çeşitli dereceler kazanmıştır. Üsküdar ve Selimiye çevresinde yürüttüğü ticari faaliyetler ve sosyal etkileşimler sayesinde tanınırlık kazanmıştır. Arkasında büyük bir çete desteği bulunmaktadır. Ömer Cihan Kurtuluş, sosyal medya üzerinden kontrollü bilgi paylaşmaktadır. Kariyeri boyunca birçok insanla işbirliği ve etkileşimde bulunmuştur.</p>
+
+        <div class="infobox">
+            <p><b>Doğum:</b> 17 Aralık 2010</p>
+            <p><b>Doğum Yeri:</b> Almanya, Medipol Hastanesi</p>
+            <p><b>İlkokul:</b> 3. Selim İlkokulu</p>
+            <p><b>Ortaokul:</b> Ata Ortaokulu</p>
+            <p><b>Lise:</b> Burhan Felek Lisesi</p>
+            <p><b>Meslek:</b> Eski amatör boksör ve kickboks sporcusu</p>
+            <p><b>Lakabı:</b> Cio</p>
+            <p><b>Anne:</b> <span class="person-name">Bedia Hacıosmanoğlu</span></p>
+            <p><b>Baba:</b> <span class="person-name">Rafet Kurtuluş</span> (2018, ölüm nedeni bilinmiyor)</p>
+            <p><b>Abi:</b> <span class="person-name">Yusuf Asaf Kurtuluş</span></p>
+            <p><b>Grup:</b> CGng (17 üyeli, kurucusu ve yöneticisi)</p>
+        </div>
+
+        <h2>Erken Yaşam ve Eğitim</h2>
+        <p>Ömer Cihan Kurtuluş, Almanya’da doğmuş, çocukluk ve gençlik yıllarını Türkiye’de geçirmiştir. Eğitimine 3. Selim İlkokulu’nda başlamış, ortaokulunu Ata Ortaokulu’nda tamamlamıştır. Liseye Burhan Felek Lisesi’nde devam etmektedir. Eğitim süresince spor ve sosyal etkinliklerde aktif rol almıştır.</p>
+
+        <h2>Aile</h2>
+        <p>Ömer Cihan Kurtuluş’un ailesi eğitim ve akademik başarı açısından örnek teşkil eder. Annesi <span class="person-name">Bedia Hacıosmanoğlu</span> Paderborn Üniversitesi Kimya bölümü mezunudur. Abisi <span class="person-name">Yusuf Asaf Kurtuluş</span>, Bahçeşehir Üniversitesi Elektrik ve Elektronik bölümünde eğitimine devam etmektedir. Babası <span class="person-name">Rafet Kurtuluş</span>, 2018 yılında vefat etmiştir. Ömer Cihan Kurtuluş, geçmişi ve ailevi değerler hakkında konuşmayı sevmez (<span class="highlight">15 Temmuz Röportajı</span>).</p>
+
+        <h2>Spor Kariyeri</h2>
+        <p>Ömer Cihan Kurtuluş, altı yıl boyunca lisanslı boks ve kickboks sporcusu olarak çeşitli başarılar elde etmiştir. 2024 Ağustos ayında yaptığı boks müsabakaları geniş bir izleyici kitlesi tarafından takip edilmiştir. Spor geçmişi, disiplin ve kararlılığı ile öne çıkmıştır.</p>
+
+        <h2>CGng Grubu ve Sosyal Etkileşim</h2>
+        <p>Ömer Cihan Kurtuluş, kurucusu olduğu 17 üyeli CGng grubunun yöneticisidir. Grubun temel amacı ticari faaliyetlerdir. Grubundaki iki üye silah ticaretinden yakalanmıştır. Ömer Cihan Kurtuluş’un panel gibi güçlere erişimi güçlüdür ve sosyal-ekonomik çevrelere erişimini kolaylaştırmaktadır. Arkadaş çevresinde eğlenceli biri olarak tanınır (<span class="highlight">19 Eylül 2025 Röportajı</span>), fakat normal yaşamında farklı bir profil sergiler.</p>
+        <p>2024 yılında, yardımcısı <span class="person-name">İhsan Mısırcı (Berbatov)</span> tarafından gruba eklenen <span class="person-name">Poyraz Elidikenli</span>, <span class="person-name">Osman Ezen</span> ve <span class="person-name">Uğur Kancalı</span>, grubun ezeli rakipleri olan XLash grubuna bıçak satmalarından ötürü gruptan atılmıştır. Ayrıca bu kişiler, zula yerlerinden büyük miktarda bıçak çalmış olduklarından dolayı gruptaki kişiler tarafından ağır yaralanmışlardır. Bu olay, grubun disiplin ve kontrolünü sağlamak açısından önemli bir dönemeç olmuştur.</p>
+
+        <h2>Kişisel Yaşam</h2>
+        <p>Ömer Cihan Kurtuluş, dışarıya tek başına çıktığında siyah-beyaz bandana maske takar. Hayatına giren bir kız ile ilişkisi yaklaşık 7 ay sürmüş ve bu süreçte kendi grubunu kısa süreliğine <span class="person-name">İhsan Mısırcı (Berbatov)</span> emanet etmiştir. Ömer Cihan Kurtuluş’un Üsküdar’da dört farklı bölgede dört ayrı zulası vardır (<span class="highlight">16 Ağustos 2025 Röportajı</span>), ve bu zula yerlerinden sadece yardımcıları olan <span class="person-name">İhsan Mısırcı (Berbatov)</span> haberdardır. 2025 Ekim ayı itibariyle Ömer Cihan Kurtuluş eski işlerine geri dönmüştür. Önceden yürüttüğü parfüm ticareti, kapkaç ve illegal alet satışı gibi faaliyetler de belgelenmiştir.</p>
+
+        <h2>Genel Değerlendirme</h2>
+        <p>Ömer Cihan Kurtuluş, spor geçmişi, ticari faaliyetleri ve sosyal çevredeki etkinliği ile dikkat çeker. Lakabı, maskesi, zula sistemi ve arkasındaki çete desteği, onun sosyal ve kişisel kimliğinin önemli unsurlarıdır. <span class="person-name">İhsan Mısırcı (Berbatov)</span> ile işbirliği, grup ve zula yönetiminde kritik rol oynamaktadır ve Ömer Cihan Kurtuluş’un stratejik kararlarında önemli bir destek sağlamaktadır.</p>
+
+        <p class="author">Yazar: <span style="color: #d32f2f;">ÜskBLOG</span></p>
+        <p class="update-date">Güncelleme Tarihi: <span style="color: #d32f2f;">4 Ekim 2025</span></p>
+        <p class="copyright">ÜskBLOG içindeki tüm yazılar, hukuki ve yasal güvence altına alınmıştır. İçeriklerin izinsiz kopyalanması veya paylaşılması yasaktır.</p>
+    </div>
+</body>
+</html>
